@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "436698010288",
+    "firebase_url": "https://filaapp.firebaseio.com",
+    "project_id": "filaapp",
+    "storage_bucket": "filaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436698010288:android:c74b3a727b3a8447",
+        "android_client_info": {
+          "package_name": "bytecodesoft.com.fila_app_generic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436698010288-1u4d53kkcd981dl0qkenrar4bm84s0s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPVDyzJJfcMc0pQrLLgBTcsWUoC5NuUcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
